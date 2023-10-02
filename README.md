@@ -82,7 +82,7 @@ registering functions with `saveAssociation` and `loadAssociation`.
 
 ## Examples
 
-For a complete, working example, refer to the [signon example](https://github.com/jaredhanson/passport-openid/tree/master/examples/signon).
+For a complete, working example, refer to the [signon example](https://github.com/windragon0910/passport-openid/tree/master/examples/signon).
 
 ## Strategies using OpenID
 
@@ -92,9 +92,9 @@ For a complete, working example, refer to the [signon example](https://github.co
   </thead>
   <tbody>
      <tr><td><a href="https://github.com/rajaraodv/passport-cloudfoundry-openidconnect">Cloud Foundry UAA (OpenID Connect)</a></td></tr>
-    <tr><td><a href="https://github.com/jaredhanson/passport-google">Google</a></td></tr>
+    <tr><td><a href="https://github.com/windragon0910/passport-google">Google</a></td></tr>
     <tr><td><a href="https://github.com/liamcurry/passport-steam">Steam</a></td></tr>
-    <tr><td><a href="https://github.com/jaredhanson/passport-yahoo">Yahoo!</a></td></tr>
+    <tr><td><a href="https://github.com/windragon0910/passport-yahoo">Yahoo!</a></td></tr>
   </tbody>
 </table>
 
@@ -103,16 +103,16 @@ For a complete, working example, refer to the [signon example](https://github.co
     $ npm install --dev
     $ make test
 
-[![Build Status](https://secure.travis-ci.org/jaredhanson/passport-openid.png)](http://travis-ci.org/jaredhanson/passport-openid)
+[![Build Status](https://secure.travis-ci.org/windragon0910/passport-openid.png)](http://travis-ci.org/windragon0910/passport-openid)
 
 ## Credits
 
-  - [Jared Hanson](http://github.com/jaredhanson)
+  - [Jared Hanson](http://github.com/windragon0910)
 
 ## License
 
 [The MIT License](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2011-2013 Jared Hanson <[http://jaredhanson.net/](http://jaredhanson.net/)>
+Copyright (c) 2011-2013 Win Dragon<[http://github.com/windragon0910](http://github.com/windragon0910)>
 
 <a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/vK9dyjRnnWsMzzJTQ57fRJpH/jaredhanson/passport-openid'>  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/vK9dyjRnnWsMzzJTQ57fRJpH/jaredhanson/passport-openid.svg' /></a>

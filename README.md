@@ -107,7 +107,7 @@ For a complete, working example, refer to the [signon example](https://github.co
 
 ## Credits
 
-  - [Jared Hanson](http://github.com/windragon0910)
+  - [Win Dragon](http://github.com/windragon0910)
 
 ## License
 
